@@ -7,6 +7,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <title>Frameworks that can be deployed to as static apps</title>
+          <meta name="description" content="This website lists the frameworks that can be deployed as static apps."></meta>
           <link
             href="https://fonts.googleapis.com/css?family=PT+Sans:300,400,700,800"
             rel="stylesheet"
