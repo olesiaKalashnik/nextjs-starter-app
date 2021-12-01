@@ -57,7 +57,7 @@ function Project({ project }) {
           <div className="cta">
             <a
               className="button-github"
-              href={project.html_url}
+              href={`https://github.com/${project.path}`}
               target="_blank"
             >
               <GithubIcon w={24} h={24} />
